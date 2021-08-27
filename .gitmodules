@@ -1,0 +1,6 @@
+[submodule "cityflows-data-model"]
+	path = cityflows-data-model
+	url = git@github.imec.be:EDiT/cityflows-data-model.git
+[submodule "cityflows-road-correlator"]
+	path = cityflows-road-correlator
+	url = git@github.imec.be:EDiT/cityflows-road-correlator.git
